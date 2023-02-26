@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDLmjp.jpg",
+      "title": "Hike Messanger 1",
+        "text_Content": "Hike Messenger, also known as Hike, is an Indian messaging app that was launched in December 2012. It was created by Kavin Bharti Mittal, the son of Sunil Bharti Mittal, the founder of Bharti Airtel, one of India's largest telecommunications companies. Hike was designed to be a messaging app that would cater specifically to the Indian market, offering features that were tailored to the needs of Indian users.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDQ9nI.jpg",
+      "title": "Hike Messanger 2",
+        "text_Content": "Since its launch, Hike has grown in popularity and has become one of the most widely used messaging apps in India. The app has over 100 million users and has been downloaded more than 10 million times from the Google Play Store. In this article, we will discuss the features and benefits of Hike, its history, and its impact on the Indian messaging app market.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDLpZN.jpg",
+      "title": "Hike Messanger 3",
+        "text_Content": "Hike offers a range of features that make it a popular choice among Indian users. One of the most popular features of Hike is its ability to work without an internet connection. This is particularly useful for Indian users who may not always have access to reliable internet connections. Hike achieves this by using a technology called "Hike Direct," which allows users to send and receive messages even when they are not connected to the internet.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDLbuR.jpg",
+      "title": "Hike Messanger 4",
+        "text_Content": "Another popular feature of Hike is its ability to offer localized content. The app has a feature called "Hike Stickers," which allows users to send stickers that are designed specifically for the Indian market. The stickers are available in a range of Indian languages, making it easy for users to express themselves in their preferred language.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDQHGt.jpg",
+      "title": "Hike Messanger 5",
+        "text_Content": "Hike also offers a range of privacy features that make it a popular choice among users who are concerned about their privacy. The app has a feature called "Hidden Mode," which allows users to hide chats from their chat list and protect them with a password. This is useful for users who want to keep their conversations private and secure.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDQ3as.jpg",
+      "title": "Hike Messanger 6",
+        "text_Content": "In addition to these features, Hike also offers a range of other benefits. The app is easy to use and has a simple, user-friendly interface. It also offers fast, reliable messaging, even in areas with low connectivity. This makes it a popular choice for users who live in rural areas or who may not have access to high-speed internet connections.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDQF8G.jpg",
+      "title": "Hike Messanger 7",
+        "text_Content": "In addition to these features, Hike also offers a range of other benefits. The app is easy to use and has a simple, user-friendly interface. It also offers fast, reliable messaging, even in areas with low connectivity. This makes it a popular choice for users who live in rural areas or who may not have access to high-speed internet connections.",
+        "text_Content_1": ""
 
 
 
